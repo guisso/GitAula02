@@ -1,2 +1,7 @@
 # GitAula02
-Novos testes com o Git
+
+Contato:
+
+* Luis Guisso
+* luis.guisso@ifnmg.edu.br
+
